@@ -1,3 +1,5 @@
+# Final update: Implemented GUI-based Online Polling System with vote recording and result visualization
+
 import tkinter as tk
 from tkinter import messagebox
 import pandas as pd
